@@ -4,36 +4,36 @@ using TMPro;
 
 public class GameClock : MonoBehaviour
 {
+    public static event Action<GameClock> OnClockChangeEvent;
+
     [SerializeField] private TMP_Text clockText;
-    [SerializeField] private DateTime currentSystemTime;
+    [SerializeField] private GameObject pauseMenu;
+
     [SerializeField] private DateTime currentGameTime;
-    [SerializeField] private float timeClockWasLastUpdated;
-    [SerializeField] private float currentSystemTimeInSeconds;
-    [SerializeField] private bool isRunning;
+    public DateTime CurrentGameTime { get => currentGameTime; }
+
+    [SerializeField] private float inGameSecondsSinceClockWasLastUpdated;   
+    [SerializeField] private bool isPaused;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         currentGameTime = new DateTime(2025, 1, 1, 6, 0, 0);
         setClockText(currentGameTime.ToString());
-        isRunning = true; 
+        isPaused = false; 
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (isRunning)
+        if (!isPaused)
         {
-            currentSystemTime = DateTime.Now;
+            inGameSecondsSinceClockWasLastUpdated += Time.deltaTime;
 
-            // timeClockWasLastUpdated += Time.deltaTime;
-            currentSystemTimeInSeconds = currentSystemTime.Second;
-
-            if (currentSystemTimeInSeconds - timeClockWasLastUpdated >= 10.0f)
+            if (inGameSecondsSinceClockWasLastUpdated >= 10.0f)
             {
-                Debug.Log("Adding minutes");
                 currentGameTime = currentGameTime.AddMinutes(10.0);
-                Debug.Log("currentGameTime: " + currentGameTime);
+                OnClockChangeEvent(this);
                 setClockText(currentGameTime.ToString());
             }
         }
@@ -42,17 +42,20 @@ public class GameClock : MonoBehaviour
     private void setClockText(String time)
     {
         clockText.text = time;
-        // currentGameTime = DateTime.Now;
-        timeClockWasLastUpdated = DateTime.Now.Second;
+        inGameSecondsSinceClockWasLastUpdated = 0.0f;
     }
 
-    public void OnPauseButtonClicked()
+    public void TogglePause()
     {
-        isRunning = !isRunning;
+        isPaused = !isPaused;
 
-        if (isRunning)
+        if (isPaused)
         {
-            timeClockWasLastUpdated = DateTime.Now.Second;
+            pauseMenu.SetActive(true);
+        }
+        else
+        {
+            pauseMenu.SetActive(false);
         }
     }
 }
