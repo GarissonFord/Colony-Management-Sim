@@ -12,6 +12,7 @@ public class TileSelector : MonoBehaviour
     [SerializeField] private Vector2 rawPointerPosition;
     [SerializeField] private Vector3 pointerPosition;
     [SerializeField] private Vector3Int pointerCellPosition;
+    private Vector3Int previousSelectedCellPosition;
     [SerializeField] private bool cellIsSelected;
 
     GridLayout gridLayout;
@@ -19,6 +20,7 @@ public class TileSelector : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        previousSelectedCellPosition = new Vector3Int(0, 0, 0);
         gridLayout = transform.parent.GetComponentInParent<GridLayout>();
         lookAction = InputSystem.actions.FindAction("Look");
         selectAction = InputSystem.actions.FindAction("Select");
@@ -29,13 +31,11 @@ public class TileSelector : MonoBehaviour
     void Update()
     {
         CheckPointerPosition();
-        // selectedTile = tilemap.GetTile(new Vector3Int(pointerPosition.x, pointerPosition.y, 0.0f));
         CheckIfCellIsSelected();
     }
 
     private void CheckPointerPosition()
     {
-        // rawPointerPosition = lookAction.ReadValue<Vector2>();
         rawPointerPosition = selectAction.ReadValue<Vector2>();
         pointerPosition = Camera.main.ScreenToWorldPoint(rawPointerPosition);
         pointerCellPosition = gridLayout.WorldToCell(pointerPosition);
@@ -47,8 +47,15 @@ public class TileSelector : MonoBehaviour
     {
         if (tilemap.HasTile(pointerCellPosition))
         {
-            selectedTile = tilemap.GetTile(pointerCellPosition);
-            tilemap.SetColor(pointerCellPosition, Color.yellow);
+            if (pointerCellPosition != previousSelectedCellPosition)
+            {
+                // selectedTile = tilemap.GetTile(pointerCellPosition);
+                tilemap.SetTileFlags(pointerCellPosition, TileFlags.None);
+                tilemap.SetColor(pointerCellPosition, Color.red);
+                tilemap.SetColor(previousSelectedCellPosition, Color.white);
+                previousSelectedCellPosition = pointerCellPosition;
+            }
+
             cellIsSelected = true;
         }
         else
