@@ -1,16 +1,9 @@
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
-public class WorldTile : MonoBehaviour
+public class WorldTile : TileBase
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public TileBase[] tiles;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public float walkingSpeed;
 }

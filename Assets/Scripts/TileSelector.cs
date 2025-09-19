@@ -49,7 +49,7 @@ public class TileSelector : MonoBehaviour
         {
             if (pointerCellPosition != previousSelectedCellPosition)
             {
-                // selectedTile = tilemap.GetTile(pointerCellPosition);
+                selectedTile = tilemap.GetTile(pointerCellPosition);
                 tilemap.SetTileFlags(pointerCellPosition, TileFlags.None);
                 tilemap.SetColor(pointerCellPosition, Color.red);
                 tilemap.SetColor(previousSelectedCellPosition, Color.white);
@@ -61,6 +61,9 @@ public class TileSelector : MonoBehaviour
         else
         {
             cellIsSelected = false;
+
+            tilemap.SetColor(previousSelectedCellPosition, Color.white);
+            previousSelectedCellPosition = pointerCellPosition;
         }
     }
 }
