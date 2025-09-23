@@ -251,7 +251,9 @@ MonoBehaviour:
   moveVector: {x: 0, y: 0}
   normalizedMoveVector: {x: 0, y: 0}
   xDirection: 0
+  lastXDirection: 0
   yDirection: 0
+  lastYDirection: 0
 --- !u!50 &783497914
 Rigidbody2D:
   serializedVersion: 5
