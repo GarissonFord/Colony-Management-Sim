@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_Die_0: -3881533666911987363
+      Character0_Die_1: -1991761269682058704
+      Character0_Die_10: -4477771967945050737
+      Character0_Die_11: -3351023405683957279
+      Character0_Die_12: -411624672541397884
+      Character0_Die_13: -3582598723540541749
+      Character0_Die_14: -5301115574122859427
+      Character0_Die_15: 2397195033263932819
+      Character0_Die_16: -5053604523184538917
+      Character0_Die_17: 1855617104612587927
+      Character0_Die_18: -2505790005137923578
+      Character0_Die_19: 2849657059171518380
+      Character0_Die_2: 1152507006432758151
+      Character0_Die_20: 7420795326615994676
+      Character0_Die_21: -9109262066805740470
+      Character0_Die_22: 574448964531490902
+      Character0_Die_23: 439006666752706860
+      Character0_Die_24: 6705640754326118869
+      Character0_Die_25: -7336585033556906045
+      Character0_Die_26: -3657045000762015066
+      Character0_Die_27: 6035212018920397458
+      Character0_Die_28: 7385973635903701829
+      Character0_Die_29: -1901967317687194263
+      Character0_Die_3: 2758524368925047513
+      Character0_Die_4: 1737873191482871399
+      Character0_Die_5: -2319727457427267776
+      Character0_Die_6: -7250889862109176311
+      Character0_Die_7: 7209607465217142488
+      Character0_Die_8: -4922865741670178671
+      Character0_Die_9: 493239903562062744
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Hammer_0: -2084455455201192505
+      Character0_IdleHoldingTool_Hammer_1: 2055395512399616378
+      Character0_IdleHoldingTool_Hammer_10: 6499538959557743891
+      Character0_IdleHoldingTool_Hammer_11: 6172992383988716565
+      Character0_IdleHoldingTool_Hammer_12: 976572332273976952
+      Character0_IdleHoldingTool_Hammer_13: -8924462124124558765
+      Character0_IdleHoldingTool_Hammer_14: 481435314588124539
+      Character0_IdleHoldingTool_Hammer_15: -6571233805600647939
+      Character0_IdleHoldingTool_Hammer_16: 4571526185160085810
+      Character0_IdleHoldingTool_Hammer_17: -9212684055454454542
+      Character0_IdleHoldingTool_Hammer_18: -5366656870878973257
+      Character0_IdleHoldingTool_Hammer_19: -1072023526045078950
+      Character0_IdleHoldingTool_Hammer_2: -4825912932123407079
+      Character0_IdleHoldingTool_Hammer_20: -6893588900132357343
+      Character0_IdleHoldingTool_Hammer_21: -8791900919070721984
+      Character0_IdleHoldingTool_Hammer_22: -2883795481172650585
+      Character0_IdleHoldingTool_Hammer_23: -7938046323568319870
+      Character0_IdleHoldingTool_Hammer_24: 5492174315221281237
+      Character0_IdleHoldingTool_Hammer_25: -6661180544241337169
+      Character0_IdleHoldingTool_Hammer_26: -2629823278941714865
+      Character0_IdleHoldingTool_Hammer_27: 6050286057245859957
+      Character0_IdleHoldingTool_Hammer_28: -7113174268918703581
+      Character0_IdleHoldingTool_Hammer_29: -1811153950777902646
+      Character0_IdleHoldingTool_Hammer_3: 8404384554583704868
+      Character0_IdleHoldingTool_Hammer_30: -5473642415513608939
+      Character0_IdleHoldingTool_Hammer_31: -4947629451629801724
+      Character0_IdleHoldingTool_Hammer_32: 8447843968023451151
+      Character0_IdleHoldingTool_Hammer_33: -6366136280428369151
+      Character0_IdleHoldingTool_Hammer_34: -3063640260962913645
+      Character0_IdleHoldingTool_Hammer_35: -2291723976165519281
+      Character0_IdleHoldingTool_Hammer_36: -4701126999448661000
+      Character0_IdleHoldingTool_Hammer_37: 1578504457803918636
+      Character0_IdleHoldingTool_Hammer_38: -8634702797285231431
+      Character0_IdleHoldingTool_Hammer_39: -3689407391945488535
+      Character0_IdleHoldingTool_Hammer_4: 1719238007923429405
+      Character0_IdleHoldingTool_Hammer_5: 8911301434234195022
+      Character0_IdleHoldingTool_Hammer_6: 8619993457302896443
+      Character0_IdleHoldingTool_Hammer_7: -1052345886514635734
+      Character0_IdleHoldingTool_Hammer_8: -3503991791183028128
+      Character0_IdleHoldingTool_Hammer_9: -6534494162000272319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

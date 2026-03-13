@@ -132,7 +132,6 @@ GameObject:
   - component: {fileID: 783497910}
   - component: {fileID: 783497913}
   - component: {fileID: 783497914}
-  - component: {fileID: 783497915}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -284,24 +283,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &783497915
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 783497909}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 620de64078dde2e45a68471c9dc59876, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tilemap: {fileID: 1526282497}
-  selectedTile: {fileID: 0}
-  clearTile: {fileID: 11400000, guid: 15b6972f7cfb521429db087609cb86b0, type: 2}
-  rawPointerPosition: {x: 0, y: 0}
-  pointerPosition: {x: 0, y: 0, z: 0}
-  pointerCellPosition: {x: 0, y: 0, z: 0}
 --- !u!1 &1298008332
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,13 +292,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1298008333}
+  - component: {fileID: 1298008334}
   m_Layer: 0
   m_Name: Tile Selector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1298008333
 Transform:
   m_ObjectHideFlags: 0
@@ -333,6 +315,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1350304586}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1298008334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1298008332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 620de64078dde2e45a68471c9dc59876, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tilemap: {fileID: 1526282497}
+  selectedTile: {fileID: 0}
+  rawPointerPosition: {x: 0, y: 0}
+  pointerPosition: {x: 0, y: 0, z: 0}
+  pointerCellPosition: {x: 0, y: 0, z: 0}
+  cellIsSelected: 0
 --- !u!1 &1350304584
 GameObject:
   m_ObjectHideFlags: 0

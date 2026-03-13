@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_Showel_0: -8037681757014036458
+      Character0_WalkHoldingTool_Showel_1: -3754771471063462254
+      Character0_WalkHoldingTool_Showel_10: 2003853873688860123
+      Character0_WalkHoldingTool_Showel_11: -5167129478223062830
+      Character0_WalkHoldingTool_Showel_12: 1973358983729405218
+      Character0_WalkHoldingTool_Showel_13: 906461582807507427
+      Character0_WalkHoldingTool_Showel_14: -7014081506709051586
+      Character0_WalkHoldingTool_Showel_15: 7901413598046743999
+      Character0_WalkHoldingTool_Showel_16: 2023891910396923439
+      Character0_WalkHoldingTool_Showel_17: 3331671680747540132
+      Character0_WalkHoldingTool_Showel_18: 4740055555875844470
+      Character0_WalkHoldingTool_Showel_19: 4413371798586459310
+      Character0_WalkHoldingTool_Showel_2: -8438896734401494797
+      Character0_WalkHoldingTool_Showel_20: -4874402685958059244
+      Character0_WalkHoldingTool_Showel_21: -1552298872549287871
+      Character0_WalkHoldingTool_Showel_22: -647253956540801281
+      Character0_WalkHoldingTool_Showel_23: 9197732465647709667
+      Character0_WalkHoldingTool_Showel_24: 3552094252318955179
+      Character0_WalkHoldingTool_Showel_25: -3938332770992335397
+      Character0_WalkHoldingTool_Showel_26: 9086757623336034900
+      Character0_WalkHoldingTool_Showel_27: 946598465191808300
+      Character0_WalkHoldingTool_Showel_28: -8799238059853170229
+      Character0_WalkHoldingTool_Showel_29: -6274098572799177448
+      Character0_WalkHoldingTool_Showel_3: -371590234872104650
+      Character0_WalkHoldingTool_Showel_4: -6531617676603508981
+      Character0_WalkHoldingTool_Showel_5: 4646323673795590198
+      Character0_WalkHoldingTool_Showel_6: 3102259621975847601
+      Character0_WalkHoldingTool_Showel_7: 4064120306139062798
+      Character0_WalkHoldingTool_Showel_8: -5809087153529218304
+      Character0_WalkHoldingTool_Showel_9: 7112734195514734022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

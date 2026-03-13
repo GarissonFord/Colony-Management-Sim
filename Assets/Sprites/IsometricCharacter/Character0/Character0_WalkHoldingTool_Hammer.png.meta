@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_Hammer_0: -307893888070332632
+      Character0_WalkHoldingTool_Hammer_1: 9075440780616386648
+      Character0_WalkHoldingTool_Hammer_10: 5719680841315887088
+      Character0_WalkHoldingTool_Hammer_11: -4348323898019521870
+      Character0_WalkHoldingTool_Hammer_12: 4016838523485491499
+      Character0_WalkHoldingTool_Hammer_13: -6862884766108270635
+      Character0_WalkHoldingTool_Hammer_14: -6451866704850638651
+      Character0_WalkHoldingTool_Hammer_15: 9042616687292873209
+      Character0_WalkHoldingTool_Hammer_16: -2656000568177689876
+      Character0_WalkHoldingTool_Hammer_17: -1621419196250080571
+      Character0_WalkHoldingTool_Hammer_18: 287725557294977585
+      Character0_WalkHoldingTool_Hammer_19: -7586765993743631188
+      Character0_WalkHoldingTool_Hammer_2: -2205468468355436199
+      Character0_WalkHoldingTool_Hammer_20: -958103557452530544
+      Character0_WalkHoldingTool_Hammer_21: -147416314766309864
+      Character0_WalkHoldingTool_Hammer_22: -2280792765741488659
+      Character0_WalkHoldingTool_Hammer_23: 5712457793747204438
+      Character0_WalkHoldingTool_Hammer_24: -112502479176838958
+      Character0_WalkHoldingTool_Hammer_25: -2251638688548327186
+      Character0_WalkHoldingTool_Hammer_26: -7185150079275592156
+      Character0_WalkHoldingTool_Hammer_27: 1283597984457536495
+      Character0_WalkHoldingTool_Hammer_28: 675082468159750629
+      Character0_WalkHoldingTool_Hammer_29: -5584821919346353210
+      Character0_WalkHoldingTool_Hammer_3: -476437710395790595
+      Character0_WalkHoldingTool_Hammer_4: 5768538013832505820
+      Character0_WalkHoldingTool_Hammer_5: -8684465924695133566
+      Character0_WalkHoldingTool_Hammer_6: -8541412861909073683
+      Character0_WalkHoldingTool_Hammer_7: -846927528818002641
+      Character0_WalkHoldingTool_Hammer_8: -6909038600007528343
+      Character0_WalkHoldingTool_Hammer_9: 1185635066417626820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

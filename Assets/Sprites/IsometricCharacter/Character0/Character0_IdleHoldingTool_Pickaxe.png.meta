@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Pickaxe_0: 7729927805057747660
+      Character0_IdleHoldingTool_Pickaxe_1: 8849002752129945226
+      Character0_IdleHoldingTool_Pickaxe_10: 7044666246950760964
+      Character0_IdleHoldingTool_Pickaxe_11: 3503380833435601850
+      Character0_IdleHoldingTool_Pickaxe_12: -4908320537984869572
+      Character0_IdleHoldingTool_Pickaxe_13: -7603155632536189467
+      Character0_IdleHoldingTool_Pickaxe_14: -2326367641793048979
+      Character0_IdleHoldingTool_Pickaxe_15: -3520123894903333887
+      Character0_IdleHoldingTool_Pickaxe_16: 1018121557318117475
+      Character0_IdleHoldingTool_Pickaxe_17: 5213555514114971399
+      Character0_IdleHoldingTool_Pickaxe_18: -1393524217816622600
+      Character0_IdleHoldingTool_Pickaxe_19: -6704392388021785498
+      Character0_IdleHoldingTool_Pickaxe_2: -8036496260937435666
+      Character0_IdleHoldingTool_Pickaxe_20: -2544986753087990279
+      Character0_IdleHoldingTool_Pickaxe_21: 9212265795844904994
+      Character0_IdleHoldingTool_Pickaxe_22: 8199505526636298531
+      Character0_IdleHoldingTool_Pickaxe_23: 1898160756825730667
+      Character0_IdleHoldingTool_Pickaxe_24: 8777889966465182383
+      Character0_IdleHoldingTool_Pickaxe_25: -6646076382069203006
+      Character0_IdleHoldingTool_Pickaxe_26: -9176346060248478449
+      Character0_IdleHoldingTool_Pickaxe_27: 2634583444171794827
+      Character0_IdleHoldingTool_Pickaxe_28: -88455284732547387
+      Character0_IdleHoldingTool_Pickaxe_29: 6227074256241313629
+      Character0_IdleHoldingTool_Pickaxe_3: -7546209247852051130
+      Character0_IdleHoldingTool_Pickaxe_30: 6416483987628199316
+      Character0_IdleHoldingTool_Pickaxe_31: 8527386817305332931
+      Character0_IdleHoldingTool_Pickaxe_32: 7116657994656414480
+      Character0_IdleHoldingTool_Pickaxe_33: -4921807371057834016
+      Character0_IdleHoldingTool_Pickaxe_34: -5286086622108356247
+      Character0_IdleHoldingTool_Pickaxe_35: -8632257262884862407
+      Character0_IdleHoldingTool_Pickaxe_36: 300389247684037262
+      Character0_IdleHoldingTool_Pickaxe_37: 6453977173139452232
+      Character0_IdleHoldingTool_Pickaxe_38: 4721373083861647147
+      Character0_IdleHoldingTool_Pickaxe_39: 6755566435382284500
+      Character0_IdleHoldingTool_Pickaxe_4: 4716024267356238564
+      Character0_IdleHoldingTool_Pickaxe_5: -5924244227391491519
+      Character0_IdleHoldingTool_Pickaxe_6: -524652978293574552
+      Character0_IdleHoldingTool_Pickaxe_7: -1018842528526903976
+      Character0_IdleHoldingTool_Pickaxe_8: -2118334567592382757
+      Character0_IdleHoldingTool_Pickaxe_9: 2682961637710334322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

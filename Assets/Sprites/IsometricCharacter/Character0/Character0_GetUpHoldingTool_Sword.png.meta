@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_Sword_0: -6512356178963734579
+      Character0_GetUpHoldingTool_Sword_1: 5860717262451388630
+      Character0_GetUpHoldingTool_Sword_10: 4338289636886508183
+      Character0_GetUpHoldingTool_Sword_11: -7242396884248408966
+      Character0_GetUpHoldingTool_Sword_12: 8059296441942555000
+      Character0_GetUpHoldingTool_Sword_13: 5833990358312452168
+      Character0_GetUpHoldingTool_Sword_14: -301762821376810210
+      Character0_GetUpHoldingTool_Sword_15: -8366986265790818298
+      Character0_GetUpHoldingTool_Sword_16: 22956657438239024
+      Character0_GetUpHoldingTool_Sword_17: -2875944932021848141
+      Character0_GetUpHoldingTool_Sword_18: -618946628340880961
+      Character0_GetUpHoldingTool_Sword_19: 572405641792177592
+      Character0_GetUpHoldingTool_Sword_2: -9117379571751421177
+      Character0_GetUpHoldingTool_Sword_3: 1846688688068196396
+      Character0_GetUpHoldingTool_Sword_4: 1505848579308300010
+      Character0_GetUpHoldingTool_Sword_5: -858211343254559454
+      Character0_GetUpHoldingTool_Sword_6: -5805249994553028969
+      Character0_GetUpHoldingTool_Sword_7: 191522256547086974
+      Character0_GetUpHoldingTool_Sword_8: 7577435342386364434
+      Character0_GetUpHoldingTool_Sword_9: 301301373870207323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Axe_0: -7293696496719127860
+      Character0_IdleHoldingTool_Axe_1: -4193459909435330520
+      Character0_IdleHoldingTool_Axe_10: 2774160920631111941
+      Character0_IdleHoldingTool_Axe_11: -3164319654892432944
+      Character0_IdleHoldingTool_Axe_12: -3814434972385609451
+      Character0_IdleHoldingTool_Axe_13: 2473617917207460487
+      Character0_IdleHoldingTool_Axe_14: 8358319721188118126
+      Character0_IdleHoldingTool_Axe_15: -2697105398606151352
+      Character0_IdleHoldingTool_Axe_16: -7635953647953073217
+      Character0_IdleHoldingTool_Axe_17: -1142082774205453621
+      Character0_IdleHoldingTool_Axe_18: 2452289978781338586
+      Character0_IdleHoldingTool_Axe_19: 1226171328141569665
+      Character0_IdleHoldingTool_Axe_2: 4237142922689681406
+      Character0_IdleHoldingTool_Axe_20: -973779148313205500
+      Character0_IdleHoldingTool_Axe_21: 909287057611800028
+      Character0_IdleHoldingTool_Axe_22: -3296294845811531677
+      Character0_IdleHoldingTool_Axe_23: 2110988179738914901
+      Character0_IdleHoldingTool_Axe_24: -3498932594103836808
+      Character0_IdleHoldingTool_Axe_25: 8610050790489333453
+      Character0_IdleHoldingTool_Axe_26: 4765838786622987427
+      Character0_IdleHoldingTool_Axe_27: 2360481269016338285
+      Character0_IdleHoldingTool_Axe_28: -4011004488045795057
+      Character0_IdleHoldingTool_Axe_29: 1647349985159112276
+      Character0_IdleHoldingTool_Axe_3: -7508837154749773392
+      Character0_IdleHoldingTool_Axe_30: -5897766822082366762
+      Character0_IdleHoldingTool_Axe_31: -2997125316311089942
+      Character0_IdleHoldingTool_Axe_32: -6008266771392192305
+      Character0_IdleHoldingTool_Axe_33: 4342029423273792624
+      Character0_IdleHoldingTool_Axe_34: -7751147254693056184
+      Character0_IdleHoldingTool_Axe_35: 3208289366853419568
+      Character0_IdleHoldingTool_Axe_36: 8587579196324853914
+      Character0_IdleHoldingTool_Axe_37: -3812498420850012528
+      Character0_IdleHoldingTool_Axe_38: 2321571411039018988
+      Character0_IdleHoldingTool_Axe_39: -5454529889312869616
+      Character0_IdleHoldingTool_Axe_4: 8642729282597979579
+      Character0_IdleHoldingTool_Axe_5: 6343466492294277599
+      Character0_IdleHoldingTool_Axe_6: 5088044118774338459
+      Character0_IdleHoldingTool_Axe_7: -699813699254541178
+      Character0_IdleHoldingTool_Axe_8: -6299049661946449130
+      Character0_IdleHoldingTool_Axe_9: -1349316637739029881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

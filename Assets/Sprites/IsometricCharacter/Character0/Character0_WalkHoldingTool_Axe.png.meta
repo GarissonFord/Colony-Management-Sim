@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_Axe_0: -5525439710234504381
+      Character0_WalkHoldingTool_Axe_1: 5045476577214482157
+      Character0_WalkHoldingTool_Axe_10: 232785689747936020
+      Character0_WalkHoldingTool_Axe_11: -1478478503092904419
+      Character0_WalkHoldingTool_Axe_12: 126299678822832864
+      Character0_WalkHoldingTool_Axe_13: -7836813750657940295
+      Character0_WalkHoldingTool_Axe_14: -3937957509535539168
+      Character0_WalkHoldingTool_Axe_15: -1570794277851640712
+      Character0_WalkHoldingTool_Axe_16: -5745515110875222038
+      Character0_WalkHoldingTool_Axe_17: 4363848621592825299
+      Character0_WalkHoldingTool_Axe_18: -1567389919298555771
+      Character0_WalkHoldingTool_Axe_19: -3796228611946386661
+      Character0_WalkHoldingTool_Axe_2: 1414186186036823775
+      Character0_WalkHoldingTool_Axe_20: -6296916799484666814
+      Character0_WalkHoldingTool_Axe_21: -3889904219011455580
+      Character0_WalkHoldingTool_Axe_22: 53490671148911059
+      Character0_WalkHoldingTool_Axe_23: 4970333660723816769
+      Character0_WalkHoldingTool_Axe_24: 7258105432730341436
+      Character0_WalkHoldingTool_Axe_25: -3632692564295245393
+      Character0_WalkHoldingTool_Axe_26: -6953944201613949979
+      Character0_WalkHoldingTool_Axe_27: 1719316604302722047
+      Character0_WalkHoldingTool_Axe_28: -649542299769139563
+      Character0_WalkHoldingTool_Axe_29: 4720481652447308495
+      Character0_WalkHoldingTool_Axe_3: -1907654889635078528
+      Character0_WalkHoldingTool_Axe_4: 5921143884881074506
+      Character0_WalkHoldingTool_Axe_5: -1834887978978993771
+      Character0_WalkHoldingTool_Axe_6: 4354604045560186139
+      Character0_WalkHoldingTool_Axe_7: -4456936582144166953
+      Character0_WalkHoldingTool_Axe_8: -5205204759321494780
+      Character0_WalkHoldingTool_Axe_9: -1945223673560630429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

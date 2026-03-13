@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_Fishingpole_0: 7797662765994571956
+      Character0_GetUpHoldingTool_Fishingpole_1: -1208918918705315761
+      Character0_GetUpHoldingTool_Fishingpole_10: -1715261695030884438
+      Character0_GetUpHoldingTool_Fishingpole_11: -7330565969176410102
+      Character0_GetUpHoldingTool_Fishingpole_12: -2352633378993201290
+      Character0_GetUpHoldingTool_Fishingpole_13: 7164600075258769836
+      Character0_GetUpHoldingTool_Fishingpole_14: 754236948889971191
+      Character0_GetUpHoldingTool_Fishingpole_15: 8922838291888872620
+      Character0_GetUpHoldingTool_Fishingpole_16: -4526756164245835412
+      Character0_GetUpHoldingTool_Fishingpole_17: -8177788379441260126
+      Character0_GetUpHoldingTool_Fishingpole_18: -1897280739431540677
+      Character0_GetUpHoldingTool_Fishingpole_19: 3791614662087322746
+      Character0_GetUpHoldingTool_Fishingpole_2: 7900918779306640685
+      Character0_GetUpHoldingTool_Fishingpole_3: -6137699617357150979
+      Character0_GetUpHoldingTool_Fishingpole_4: 8551368975717557956
+      Character0_GetUpHoldingTool_Fishingpole_5: 3415298909184675599
+      Character0_GetUpHoldingTool_Fishingpole_6: 5604329046246736031
+      Character0_GetUpHoldingTool_Fishingpole_7: 9133821487744466542
+      Character0_GetUpHoldingTool_Fishingpole_8: -362240431756174704
+      Character0_GetUpHoldingTool_Fishingpole_9: -5228749827839677306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_Axe_0: 2007888757517544875
+      Character0_GetUpHoldingTool_Axe_1: -2568549464888881734
+      Character0_GetUpHoldingTool_Axe_10: 1888788268725690102
+      Character0_GetUpHoldingTool_Axe_11: -8658607053950539550
+      Character0_GetUpHoldingTool_Axe_12: 443083850608562468
+      Character0_GetUpHoldingTool_Axe_13: 6125500170759797270
+      Character0_GetUpHoldingTool_Axe_14: -5932559678802730365
+      Character0_GetUpHoldingTool_Axe_15: -8731836094673789958
+      Character0_GetUpHoldingTool_Axe_16: -3138544255651500894
+      Character0_GetUpHoldingTool_Axe_17: -4762241234930766077
+      Character0_GetUpHoldingTool_Axe_18: 3824226356167629945
+      Character0_GetUpHoldingTool_Axe_19: -5616303225911523106
+      Character0_GetUpHoldingTool_Axe_2: 8833344797339781639
+      Character0_GetUpHoldingTool_Axe_3: 1122994392023592608
+      Character0_GetUpHoldingTool_Axe_4: 3441577220917339322
+      Character0_GetUpHoldingTool_Axe_5: 1089248465428877907
+      Character0_GetUpHoldingTool_Axe_6: 8212727964619035850
+      Character0_GetUpHoldingTool_Axe_7: -7956809868569793526
+      Character0_GetUpHoldingTool_Axe_8: -2513980464594532406
+      Character0_GetUpHoldingTool_Axe_9: -6516564565824013618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

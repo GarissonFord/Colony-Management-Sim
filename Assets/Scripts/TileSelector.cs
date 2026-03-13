@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Tilemaps;
@@ -5,15 +6,18 @@ using UnityEngine.Tilemaps;
 public class TileSelector : MonoBehaviour
 {
     InputAction lookAction;
+    // Technically not an "attack" yet, but it's already mapped to left-click so this is out of convenience
+    InputAction attackAction;
     InputAction selectAction;
 
     [SerializeField] private Tilemap tilemap;
     [SerializeField] private TileBase selectedTile;
+    [SerializeField] private TileBase clearTile;
     [SerializeField] private Vector2 rawPointerPosition;
     [SerializeField] private Vector3 pointerPosition;
     [SerializeField] private Vector3Int pointerCellPosition;
     private Vector3Int previousSelectedCellPosition;
-    [SerializeField] private bool cellIsSelected;
+    // [SerializeField] private bool cellIsSelected;
 
     GridLayout gridLayout;
 
@@ -21,8 +25,9 @@ public class TileSelector : MonoBehaviour
     void Start()
     {
         previousSelectedCellPosition = new Vector3Int(0, 0, 0);
-        gridLayout = transform.parent.GetComponentInParent<GridLayout>();
+        gridLayout = tilemap.GetComponent<GridLayout>();
         lookAction = InputSystem.actions.FindAction("Look");
+        attackAction = InputSystem.actions.FindAction("Attack");
         selectAction = InputSystem.actions.FindAction("Select");
         CheckIfCellIsSelected();
     }
@@ -32,6 +37,12 @@ public class TileSelector : MonoBehaviour
     {
         CheckPointerPosition();
         CheckIfCellIsSelected();
+
+        if (attackAction.IsPressed())
+        {
+            // Debug.Log("attackAction.WasPerformedThisFrame()");
+            tilemap.SetTile(pointerCellPosition, clearTile);
+        }
     }
 
     private void CheckPointerPosition()
@@ -56,14 +67,16 @@ public class TileSelector : MonoBehaviour
                 previousSelectedCellPosition = pointerCellPosition;
             }
 
-            cellIsSelected = true;
+            // cellIsSelected = true;
         }
         else
         {
-            cellIsSelected = false;
+            // cellIsSelected = false;
 
             tilemap.SetColor(previousSelectedCellPosition, Color.white);
             previousSelectedCellPosition = pointerCellPosition;
         }
     }
+
+
 }

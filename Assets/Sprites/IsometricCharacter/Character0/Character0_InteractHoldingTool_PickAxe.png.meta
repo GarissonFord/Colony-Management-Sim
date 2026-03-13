@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_InteractHoldingTool_PickAxe_0: 1694055559502134475
+      Character0_InteractHoldingTool_PickAxe_1: 5050796789057821542
+      Character0_InteractHoldingTool_PickAxe_10: -2286408385162932818
+      Character0_InteractHoldingTool_PickAxe_11: -3136909038730715420
+      Character0_InteractHoldingTool_PickAxe_12: 3298922279316534895
+      Character0_InteractHoldingTool_PickAxe_13: -873616412525445362
+      Character0_InteractHoldingTool_PickAxe_14: 6647589148519706633
+      Character0_InteractHoldingTool_PickAxe_2: 3701745869401538377
+      Character0_InteractHoldingTool_PickAxe_3: -6766944673446077195
+      Character0_InteractHoldingTool_PickAxe_4: -1694156261695565974
+      Character0_InteractHoldingTool_PickAxe_5: 5095643594639985957
+      Character0_InteractHoldingTool_PickAxe_6: 897014158151448566
+      Character0_InteractHoldingTool_PickAxe_7: -1846789247001796085
+      Character0_InteractHoldingTool_PickAxe_8: 6620010737351153200
+      Character0_InteractHoldingTool_PickAxe_9: 6288144056968243788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

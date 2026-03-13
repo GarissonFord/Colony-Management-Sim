@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_SitHoldingTool_WaterCan_0: -7883513916722403046
+      Character0_SitHoldingTool_WaterCan_1: 3629226032315529032
+      Character0_SitHoldingTool_WaterCan_10: 6669479724601047649
+      Character0_SitHoldingTool_WaterCan_11: -2846071840244437820
+      Character0_SitHoldingTool_WaterCan_12: 6824807365199778985
+      Character0_SitHoldingTool_WaterCan_13: -1532563012362194486
+      Character0_SitHoldingTool_WaterCan_14: -6349090011845970233
+      Character0_SitHoldingTool_WaterCan_15: -3903938550073156291
+      Character0_SitHoldingTool_WaterCan_16: -3332430692746622623
+      Character0_SitHoldingTool_WaterCan_17: 7753711313193942649
+      Character0_SitHoldingTool_WaterCan_18: 6064042951367488376
+      Character0_SitHoldingTool_WaterCan_19: -1329177139474373647
+      Character0_SitHoldingTool_WaterCan_2: -2597539368145147197
+      Character0_SitHoldingTool_WaterCan_3: 1713762044108730877
+      Character0_SitHoldingTool_WaterCan_4: 8710456858246148693
+      Character0_SitHoldingTool_WaterCan_5: -1666018489477359137
+      Character0_SitHoldingTool_WaterCan_6: 111320276243406072
+      Character0_SitHoldingTool_WaterCan_7: -6755696611637185185
+      Character0_SitHoldingTool_WaterCan_8: 4907281253724056643
+      Character0_SitHoldingTool_WaterCan_9: 8474898935451779320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

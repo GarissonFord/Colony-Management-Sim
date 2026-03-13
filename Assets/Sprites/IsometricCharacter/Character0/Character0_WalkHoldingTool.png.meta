@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_0: -6659258085924383533
+      Character0_WalkHoldingTool_1: 1689748122248267135
+      Character0_WalkHoldingTool_10: 2767462194858096176
+      Character0_WalkHoldingTool_11: -5264526434205037618
+      Character0_WalkHoldingTool_12: -7702475575412101693
+      Character0_WalkHoldingTool_13: -6112691229342931381
+      Character0_WalkHoldingTool_14: 6514464950601756884
+      Character0_WalkHoldingTool_15: -6856529210083088727
+      Character0_WalkHoldingTool_16: -7369473308675809930
+      Character0_WalkHoldingTool_17: 1993008035291148843
+      Character0_WalkHoldingTool_18: 4467455346434997297
+      Character0_WalkHoldingTool_19: -688001373676109250
+      Character0_WalkHoldingTool_2: -1525460577241553263
+      Character0_WalkHoldingTool_20: -7971957865444016896
+      Character0_WalkHoldingTool_21: 1972206836394425233
+      Character0_WalkHoldingTool_22: 8747494306590707779
+      Character0_WalkHoldingTool_23: -1347312163700512955
+      Character0_WalkHoldingTool_24: 3179183184197354681
+      Character0_WalkHoldingTool_25: -4971611472030958956
+      Character0_WalkHoldingTool_26: 2545113760710634474
+      Character0_WalkHoldingTool_27: 7677901699524548200
+      Character0_WalkHoldingTool_28: 3198592571388443557
+      Character0_WalkHoldingTool_29: 2021608876070380980
+      Character0_WalkHoldingTool_3: -1235597909379807673
+      Character0_WalkHoldingTool_4: -3254727306830105258
+      Character0_WalkHoldingTool_5: -6239459643449591440
+      Character0_WalkHoldingTool_6: 711503325058281023
+      Character0_WalkHoldingTool_7: -8397963082800341567
+      Character0_WalkHoldingTool_8: 7035512127402428641
+      Character0_WalkHoldingTool_9: -8979016493842312351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

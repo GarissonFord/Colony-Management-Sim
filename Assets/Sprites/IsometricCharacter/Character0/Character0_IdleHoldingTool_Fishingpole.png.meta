@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Fishingpole_0: 4016698517212464980
+      Character0_IdleHoldingTool_Fishingpole_1: 8802611035391722609
+      Character0_IdleHoldingTool_Fishingpole_10: -7852866263554536530
+      Character0_IdleHoldingTool_Fishingpole_11: 6545145411472148149
+      Character0_IdleHoldingTool_Fishingpole_12: -5665461114042682309
+      Character0_IdleHoldingTool_Fishingpole_13: -2997189674376995662
+      Character0_IdleHoldingTool_Fishingpole_14: 7110550575517554193
+      Character0_IdleHoldingTool_Fishingpole_15: 2076050389632999290
+      Character0_IdleHoldingTool_Fishingpole_16: -5901729666908890885
+      Character0_IdleHoldingTool_Fishingpole_17: -5188879498117484856
+      Character0_IdleHoldingTool_Fishingpole_18: -6707509361751074789
+      Character0_IdleHoldingTool_Fishingpole_19: -7404448469061432762
+      Character0_IdleHoldingTool_Fishingpole_2: 8919111860978402759
+      Character0_IdleHoldingTool_Fishingpole_20: 1231378767099114182
+      Character0_IdleHoldingTool_Fishingpole_21: -1249145818762412669
+      Character0_IdleHoldingTool_Fishingpole_22: 5613879132941453818
+      Character0_IdleHoldingTool_Fishingpole_23: -4764395381484290285
+      Character0_IdleHoldingTool_Fishingpole_24: -3183084637835907802
+      Character0_IdleHoldingTool_Fishingpole_25: -3276715669672237097
+      Character0_IdleHoldingTool_Fishingpole_26: 7286912812833321432
+      Character0_IdleHoldingTool_Fishingpole_27: -2993246583193911254
+      Character0_IdleHoldingTool_Fishingpole_28: 7356059436931330094
+      Character0_IdleHoldingTool_Fishingpole_29: 8423324322669087769
+      Character0_IdleHoldingTool_Fishingpole_3: -3176825194091820103
+      Character0_IdleHoldingTool_Fishingpole_30: -1554915338037283561
+      Character0_IdleHoldingTool_Fishingpole_31: 7312840111374192092
+      Character0_IdleHoldingTool_Fishingpole_32: -206407337955164307
+      Character0_IdleHoldingTool_Fishingpole_33: -8953511858902307538
+      Character0_IdleHoldingTool_Fishingpole_34: 3557749245852443811
+      Character0_IdleHoldingTool_Fishingpole_35: -2640339122335734940
+      Character0_IdleHoldingTool_Fishingpole_36: -3666940764249912441
+      Character0_IdleHoldingTool_Fishingpole_37: 5764915076557968589
+      Character0_IdleHoldingTool_Fishingpole_38: 6958205611053823311
+      Character0_IdleHoldingTool_Fishingpole_39: 7407477759002799501
+      Character0_IdleHoldingTool_Fishingpole_4: -8553124026393951791
+      Character0_IdleHoldingTool_Fishingpole_5: -6300092789329458289
+      Character0_IdleHoldingTool_Fishingpole_6: -4826872447977176475
+      Character0_IdleHoldingTool_Fishingpole_7: 6933117446676179219
+      Character0_IdleHoldingTool_Fishingpole_8: -4754139924556067151
+      Character0_IdleHoldingTool_Fishingpole_9: -6041090011509432431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

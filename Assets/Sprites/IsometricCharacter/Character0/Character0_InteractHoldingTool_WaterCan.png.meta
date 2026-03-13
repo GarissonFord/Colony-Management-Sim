@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_InteractHoldingTool_WaterCan_0: -6309762749688502186
+      Character0_InteractHoldingTool_WaterCan_1: -7422067195360842696
+      Character0_InteractHoldingTool_WaterCan_10: -6553038838130384323
+      Character0_InteractHoldingTool_WaterCan_11: 1250223165179468609
+      Character0_InteractHoldingTool_WaterCan_12: -7343868343914178032
+      Character0_InteractHoldingTool_WaterCan_13: -8681829603059472608
+      Character0_InteractHoldingTool_WaterCan_14: 806246148633695095
+      Character0_InteractHoldingTool_WaterCan_2: 6648896054947548711
+      Character0_InteractHoldingTool_WaterCan_3: -8248474948718897962
+      Character0_InteractHoldingTool_WaterCan_4: 3532459079801203457
+      Character0_InteractHoldingTool_WaterCan_5: 1580326289761630393
+      Character0_InteractHoldingTool_WaterCan_6: 928206824066672434
+      Character0_InteractHoldingTool_WaterCan_7: -4196473642738281643
+      Character0_InteractHoldingTool_WaterCan_8: 9031125007934059731
+      Character0_InteractHoldingTool_WaterCan_9: -6499059707183544146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

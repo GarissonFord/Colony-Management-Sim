@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_Sword_0: 5071005673725236082
+      Character0_WalkHoldingTool_Sword_1: -4627111516969143313
+      Character0_WalkHoldingTool_Sword_10: 6492519803796110773
+      Character0_WalkHoldingTool_Sword_11: -6902123660162441344
+      Character0_WalkHoldingTool_Sword_12: 8223514233601976216
+      Character0_WalkHoldingTool_Sword_13: 9213788842127199984
+      Character0_WalkHoldingTool_Sword_14: 4206021800994344936
+      Character0_WalkHoldingTool_Sword_15: 3665039529037246595
+      Character0_WalkHoldingTool_Sword_16: -7008954371807238517
+      Character0_WalkHoldingTool_Sword_17: 4471343488550467786
+      Character0_WalkHoldingTool_Sword_18: -1744449343626047533
+      Character0_WalkHoldingTool_Sword_19: 2050075746969210722
+      Character0_WalkHoldingTool_Sword_2: 5765232717047054151
+      Character0_WalkHoldingTool_Sword_20: 4423167666689446727
+      Character0_WalkHoldingTool_Sword_21: -5831394012781400634
+      Character0_WalkHoldingTool_Sword_22: -5843638670298797663
+      Character0_WalkHoldingTool_Sword_23: 3001759898058960996
+      Character0_WalkHoldingTool_Sword_24: -6898148913408029144
+      Character0_WalkHoldingTool_Sword_25: -9218996423080700499
+      Character0_WalkHoldingTool_Sword_26: 3789689016379916002
+      Character0_WalkHoldingTool_Sword_27: 4470237232743798707
+      Character0_WalkHoldingTool_Sword_28: -6959122929994004889
+      Character0_WalkHoldingTool_Sword_29: -2003589172491739428
+      Character0_WalkHoldingTool_Sword_3: -1434228103300224322
+      Character0_WalkHoldingTool_Sword_4: -7037414749760296877
+      Character0_WalkHoldingTool_Sword_5: 7492474650836642093
+      Character0_WalkHoldingTool_Sword_6: -7383286644966323542
+      Character0_WalkHoldingTool_Sword_7: -7444408313801992395
+      Character0_WalkHoldingTool_Sword_8: 1377360741393785048
+      Character0_WalkHoldingTool_Sword_9: -4039942939881523835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

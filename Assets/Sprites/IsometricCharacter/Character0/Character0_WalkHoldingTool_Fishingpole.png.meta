@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_Fishingpole_0: 808679151520776214
+      Character0_WalkHoldingTool_Fishingpole_1: -8852878075402050701
+      Character0_WalkHoldingTool_Fishingpole_10: -3247437638861913910
+      Character0_WalkHoldingTool_Fishingpole_11: 873904429455501996
+      Character0_WalkHoldingTool_Fishingpole_12: 1122071806871644162
+      Character0_WalkHoldingTool_Fishingpole_13: -3010264138345789979
+      Character0_WalkHoldingTool_Fishingpole_14: -6746596566991204653
+      Character0_WalkHoldingTool_Fishingpole_15: 1717731652240979127
+      Character0_WalkHoldingTool_Fishingpole_16: 6208460392130863210
+      Character0_WalkHoldingTool_Fishingpole_17: 2183789184760627489
+      Character0_WalkHoldingTool_Fishingpole_18: 7176529415936865161
+      Character0_WalkHoldingTool_Fishingpole_19: 3360187481336626574
+      Character0_WalkHoldingTool_Fishingpole_2: -5552759684086215851
+      Character0_WalkHoldingTool_Fishingpole_20: -3247312660563618591
+      Character0_WalkHoldingTool_Fishingpole_21: 6115347438771492131
+      Character0_WalkHoldingTool_Fishingpole_22: 4081948764617025382
+      Character0_WalkHoldingTool_Fishingpole_23: -1336940427097385312
+      Character0_WalkHoldingTool_Fishingpole_24: 2603744471643447206
+      Character0_WalkHoldingTool_Fishingpole_25: -3170898245498900434
+      Character0_WalkHoldingTool_Fishingpole_26: -8131204749065300458
+      Character0_WalkHoldingTool_Fishingpole_27: 9097465590927218648
+      Character0_WalkHoldingTool_Fishingpole_28: -508359301927395244
+      Character0_WalkHoldingTool_Fishingpole_29: 616988447843350882
+      Character0_WalkHoldingTool_Fishingpole_3: -2628092579159825487
+      Character0_WalkHoldingTool_Fishingpole_4: 3231099708901355076
+      Character0_WalkHoldingTool_Fishingpole_5: -6728719599935191012
+      Character0_WalkHoldingTool_Fishingpole_6: -7067582076767822942
+      Character0_WalkHoldingTool_Fishingpole_7: -8331368388983905376
+      Character0_WalkHoldingTool_Fishingpole_8: 7677213837975233378
+      Character0_WalkHoldingTool_Fishingpole_9: -3848784801923616391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_Fish_Fishingpole_0: -8572096953723263497
+      Character0_Fish_Fishingpole_1: 385045202016659845
+      Character0_Fish_Fishingpole_10: -3523351866310480552
+      Character0_Fish_Fishingpole_11: 373733418200356886
+      Character0_Fish_Fishingpole_12: 3782955141662990838
+      Character0_Fish_Fishingpole_13: -7849839847347751862
+      Character0_Fish_Fishingpole_14: 4344813436818443053
+      Character0_Fish_Fishingpole_15: -7373917407638502255
+      Character0_Fish_Fishingpole_16: 4692255147019462103
+      Character0_Fish_Fishingpole_17: 5713216042984924693
+      Character0_Fish_Fishingpole_18: -3183642153319149487
+      Character0_Fish_Fishingpole_19: -2697310279872929621
+      Character0_Fish_Fishingpole_2: 4955941872564157309
+      Character0_Fish_Fishingpole_20: -3171331334084848852
+      Character0_Fish_Fishingpole_21: -6784299789935686461
+      Character0_Fish_Fishingpole_22: 4218256368122138188
+      Character0_Fish_Fishingpole_23: -4478440330815294113
+      Character0_Fish_Fishingpole_24: -1582330297664683735
+      Character0_Fish_Fishingpole_25: 1956550882133371968
+      Character0_Fish_Fishingpole_26: 8905713711151127347
+      Character0_Fish_Fishingpole_27: -6323024968156066109
+      Character0_Fish_Fishingpole_28: 3547822459132496399
+      Character0_Fish_Fishingpole_29: -7748573551436761228
+      Character0_Fish_Fishingpole_3: 1261011319318584522
+      Character0_Fish_Fishingpole_4: 6780239678973461457
+      Character0_Fish_Fishingpole_5: -7092378323963350829
+      Character0_Fish_Fishingpole_6: 518714480656365847
+      Character0_Fish_Fishingpole_7: 600156063302766835
+      Character0_Fish_Fishingpole_8: 6504417023970765481
+      Character0_Fish_Fishingpole_9: -4544865423086270746
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_Fish_0: -474306130768707296
+      Character0_Fish_1: -8427829252495650184
+      Character0_Fish_10: 5960259746371172318
+      Character0_Fish_11: -2217347761111999008
+      Character0_Fish_12: 3590401064863517984
+      Character0_Fish_13: 7397961668400781119
+      Character0_Fish_14: 858497649444599862
+      Character0_Fish_15: 7757415908073899031
+      Character0_Fish_16: 1071194809274407556
+      Character0_Fish_17: -9182999209425983944
+      Character0_Fish_18: -8484947253255143634
+      Character0_Fish_19: 8668317922161058306
+      Character0_Fish_2: 5954728862473126329
+      Character0_Fish_20: 8804106043468839034
+      Character0_Fish_21: -2833285124384804830
+      Character0_Fish_22: 9061204270300156493
+      Character0_Fish_23: 2343121923766144523
+      Character0_Fish_24: 3862546542728663608
+      Character0_Fish_25: -2753779307133410561
+      Character0_Fish_26: 2816965013653085942
+      Character0_Fish_27: 8756730115113518976
+      Character0_Fish_28: -6465739680400874340
+      Character0_Fish_29: -5820534932610278322
+      Character0_Fish_3: 5870165109315465979
+      Character0_Fish_4: -4244888280612384517
+      Character0_Fish_5: 6088061673035471048
+      Character0_Fish_6: 3106299089520547200
+      Character0_Fish_7: 3231287862274714478
+      Character0_Fish_8: 3566160181632278961
+      Character0_Fish_9: 1405567191688102819
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

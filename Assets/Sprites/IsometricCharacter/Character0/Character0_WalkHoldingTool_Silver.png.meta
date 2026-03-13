@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_Silver_0: 4879804657917587211
+      Character0_WalkHoldingTool_Silver_1: 6789342108848633067
+      Character0_WalkHoldingTool_Silver_10: -4342548276055837267
+      Character0_WalkHoldingTool_Silver_11: 4030596146481134426
+      Character0_WalkHoldingTool_Silver_12: -6703652188382729081
+      Character0_WalkHoldingTool_Silver_13: -7446668286627639319
+      Character0_WalkHoldingTool_Silver_14: 3672448105264774866
+      Character0_WalkHoldingTool_Silver_15: -1766183496475526180
+      Character0_WalkHoldingTool_Silver_16: -6686038933688542618
+      Character0_WalkHoldingTool_Silver_17: 2812837082543152702
+      Character0_WalkHoldingTool_Silver_18: -1518442696709468580
+      Character0_WalkHoldingTool_Silver_19: 7839750520903778877
+      Character0_WalkHoldingTool_Silver_2: -1541888081629848726
+      Character0_WalkHoldingTool_Silver_20: 370057258942026244
+      Character0_WalkHoldingTool_Silver_21: -1500826909280448753
+      Character0_WalkHoldingTool_Silver_22: 207908342988080706
+      Character0_WalkHoldingTool_Silver_23: -3746254632375754695
+      Character0_WalkHoldingTool_Silver_24: 1549017496570907301
+      Character0_WalkHoldingTool_Silver_25: 5554009575200892485
+      Character0_WalkHoldingTool_Silver_26: 8111539478648740961
+      Character0_WalkHoldingTool_Silver_27: -6319824699371776395
+      Character0_WalkHoldingTool_Silver_28: -7979086610635988617
+      Character0_WalkHoldingTool_Silver_29: -1782285275779483398
+      Character0_WalkHoldingTool_Silver_3: 3586950610670571271
+      Character0_WalkHoldingTool_Silver_4: -312453964534372480
+      Character0_WalkHoldingTool_Silver_5: -5184342689134884955
+      Character0_WalkHoldingTool_Silver_6: 6164356483187976238
+      Character0_WalkHoldingTool_Silver_7: -4340994126360823087
+      Character0_WalkHoldingTool_Silver_8: -7168939387020953709
+      Character0_WalkHoldingTool_Silver_9: -8588333250006209649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

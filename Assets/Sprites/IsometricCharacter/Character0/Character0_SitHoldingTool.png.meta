@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_SitHoldingTool_0: 8256299449895854114
+      Character0_SitHoldingTool_1: 5549137934491956607
+      Character0_SitHoldingTool_10: 5978575419769995285
+      Character0_SitHoldingTool_11: -7791764204714435617
+      Character0_SitHoldingTool_12: 7724282819420960070
+      Character0_SitHoldingTool_13: -7997766215853861405
+      Character0_SitHoldingTool_14: 4572166496844850317
+      Character0_SitHoldingTool_15: 6561820130319417253
+      Character0_SitHoldingTool_16: -2521622166738996704
+      Character0_SitHoldingTool_17: 2614848693347647947
+      Character0_SitHoldingTool_18: -6333240820790345269
+      Character0_SitHoldingTool_19: 7953561366815909018
+      Character0_SitHoldingTool_2: -6673148201926331492
+      Character0_SitHoldingTool_3: 741027807271982398
+      Character0_SitHoldingTool_4: -9159916001986450677
+      Character0_SitHoldingTool_5: -2210631439850714165
+      Character0_SitHoldingTool_6: 2202313103576733750
+      Character0_SitHoldingTool_7: -3176541343559094542
+      Character0_SitHoldingTool_8: -7052265273999672456
+      Character0_SitHoldingTool_9: 4768480579642380012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

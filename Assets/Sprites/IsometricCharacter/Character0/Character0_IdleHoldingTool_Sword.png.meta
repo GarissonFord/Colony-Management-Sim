@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Sword_0: -2618191825208374366
+      Character0_IdleHoldingTool_Sword_1: 11719853273909813
+      Character0_IdleHoldingTool_Sword_10: -6502591445936394171
+      Character0_IdleHoldingTool_Sword_11: 4534695859412402772
+      Character0_IdleHoldingTool_Sword_12: -3243674177818454537
+      Character0_IdleHoldingTool_Sword_13: -3557504514068878934
+      Character0_IdleHoldingTool_Sword_14: 1783044699725070930
+      Character0_IdleHoldingTool_Sword_15: 3458134892026842894
+      Character0_IdleHoldingTool_Sword_16: -8993635930991336536
+      Character0_IdleHoldingTool_Sword_17: -5253774920849751101
+      Character0_IdleHoldingTool_Sword_18: -7016836769639804753
+      Character0_IdleHoldingTool_Sword_19: 123269618963433476
+      Character0_IdleHoldingTool_Sword_2: 6661946716076936804
+      Character0_IdleHoldingTool_Sword_20: 1339608274334469347
+      Character0_IdleHoldingTool_Sword_21: -4892445785274789381
+      Character0_IdleHoldingTool_Sword_22: 7915274137247240336
+      Character0_IdleHoldingTool_Sword_23: -2567585245913298641
+      Character0_IdleHoldingTool_Sword_24: 5657387114978902588
+      Character0_IdleHoldingTool_Sword_25: -6134599049166282677
+      Character0_IdleHoldingTool_Sword_26: -4677809188753294542
+      Character0_IdleHoldingTool_Sword_27: 7842583373536246633
+      Character0_IdleHoldingTool_Sword_28: 7302471906553561389
+      Character0_IdleHoldingTool_Sword_29: 7021576367602517101
+      Character0_IdleHoldingTool_Sword_3: 3227951669373580082
+      Character0_IdleHoldingTool_Sword_30: -4357084673834648299
+      Character0_IdleHoldingTool_Sword_31: -1955838082688202670
+      Character0_IdleHoldingTool_Sword_32: 7098693635870219402
+      Character0_IdleHoldingTool_Sword_33: -5381382176436676216
+      Character0_IdleHoldingTool_Sword_34: 659945155407239082
+      Character0_IdleHoldingTool_Sword_35: -5788943140449184767
+      Character0_IdleHoldingTool_Sword_36: 1994830193228727524
+      Character0_IdleHoldingTool_Sword_37: 5608927734096053669
+      Character0_IdleHoldingTool_Sword_38: 8040753717878687808
+      Character0_IdleHoldingTool_Sword_39: 2702573921679215072
+      Character0_IdleHoldingTool_Sword_4: 1092033867425140151
+      Character0_IdleHoldingTool_Sword_5: 7995184873141360735
+      Character0_IdleHoldingTool_Sword_6: 1820385024533152059
+      Character0_IdleHoldingTool_Sword_7: -8318747874669897214
+      Character0_IdleHoldingTool_Sword_8: -8301885164672635425
+      Character0_IdleHoldingTool_Sword_9: 6765223404269754406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_Run_WaterCan_0: -2277488238961489306
+      Character0_Run_WaterCan_1: -3382254009308778954
+      Character0_Run_WaterCan_10: -3088507068088646291
+      Character0_Run_WaterCan_11: 842344937093101824
+      Character0_Run_WaterCan_12: 6784810598885996654
+      Character0_Run_WaterCan_13: 3966274681115265756
+      Character0_Run_WaterCan_14: 5754904300642498001
+      Character0_Run_WaterCan_15: 5299584617444177766
+      Character0_Run_WaterCan_16: 8455931734967685429
+      Character0_Run_WaterCan_17: -8412935268467605929
+      Character0_Run_WaterCan_18: 9167725520917241027
+      Character0_Run_WaterCan_19: 3655964275094606716
+      Character0_Run_WaterCan_2: -7700287395874242537
+      Character0_Run_WaterCan_3: -125335384597947955
+      Character0_Run_WaterCan_4: 7410906571199251128
+      Character0_Run_WaterCan_5: -1673775369031155575
+      Character0_Run_WaterCan_6: -558114641591746486
+      Character0_Run_WaterCan_7: -2059973545539322565
+      Character0_Run_WaterCan_8: 7486421472327785173
+      Character0_Run_WaterCan_9: 334819679939012859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

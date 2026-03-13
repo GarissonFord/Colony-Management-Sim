@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_InteractHoldingTool_Hammer_0: -3954241009863583836
+      Character0_InteractHoldingTool_Hammer_1: -1111159644973954647
+      Character0_InteractHoldingTool_Hammer_10: 3308980223864943134
+      Character0_InteractHoldingTool_Hammer_11: 2412514158203702359
+      Character0_InteractHoldingTool_Hammer_12: -9102749717506557570
+      Character0_InteractHoldingTool_Hammer_13: 8063686332378172543
+      Character0_InteractHoldingTool_Hammer_14: -1784635271009647921
+      Character0_InteractHoldingTool_Hammer_2: -4515150209223960063
+      Character0_InteractHoldingTool_Hammer_3: 3159929098069191790
+      Character0_InteractHoldingTool_Hammer_4: 4326201428467175986
+      Character0_InteractHoldingTool_Hammer_5: -3039173679635225976
+      Character0_InteractHoldingTool_Hammer_6: -5228641663134073134
+      Character0_InteractHoldingTool_Hammer_7: 4133683495781072477
+      Character0_InteractHoldingTool_Hammer_8: -5619394034156598001
+      Character0_InteractHoldingTool_Hammer_9: -7574679892528646295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

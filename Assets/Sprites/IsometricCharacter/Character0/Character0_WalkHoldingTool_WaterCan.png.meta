@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_WaterCan_0: 7198675049850961180
+      Character0_WalkHoldingTool_WaterCan_1: -2417857282983024302
+      Character0_WalkHoldingTool_WaterCan_10: -1608998519272843000
+      Character0_WalkHoldingTool_WaterCan_11: 2308734763602812696
+      Character0_WalkHoldingTool_WaterCan_12: 4116722239670331928
+      Character0_WalkHoldingTool_WaterCan_13: 7949895764353050263
+      Character0_WalkHoldingTool_WaterCan_14: -2525050451379827195
+      Character0_WalkHoldingTool_WaterCan_15: 921277557614080906
+      Character0_WalkHoldingTool_WaterCan_16: 8563511594715248131
+      Character0_WalkHoldingTool_WaterCan_17: 7201637483181265078
+      Character0_WalkHoldingTool_WaterCan_18: -8600367587647977950
+      Character0_WalkHoldingTool_WaterCan_19: -1320802010744881901
+      Character0_WalkHoldingTool_WaterCan_2: -961151709478296412
+      Character0_WalkHoldingTool_WaterCan_20: -442523090510498280
+      Character0_WalkHoldingTool_WaterCan_21: -4196967227776103492
+      Character0_WalkHoldingTool_WaterCan_22: -5575490844659790532
+      Character0_WalkHoldingTool_WaterCan_23: 4464767921465949912
+      Character0_WalkHoldingTool_WaterCan_24: -2556074311022375420
+      Character0_WalkHoldingTool_WaterCan_25: -3889391414082765627
+      Character0_WalkHoldingTool_WaterCan_26: 2993171363814070048
+      Character0_WalkHoldingTool_WaterCan_27: -5919303031517923706
+      Character0_WalkHoldingTool_WaterCan_28: 5759283520424939923
+      Character0_WalkHoldingTool_WaterCan_29: -6868086374049700082
+      Character0_WalkHoldingTool_WaterCan_3: -2706914538689131093
+      Character0_WalkHoldingTool_WaterCan_4: 3503080098457984953
+      Character0_WalkHoldingTool_WaterCan_5: -8396269839820798653
+      Character0_WalkHoldingTool_WaterCan_6: -4970206067727557653
+      Character0_WalkHoldingTool_WaterCan_7: 5937816731295814045
+      Character0_WalkHoldingTool_WaterCan_8: -8570267152885860610
+      Character0_WalkHoldingTool_WaterCan_9: 303402887040709065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_WalkHoldingTool_Pickaxe_0: 4375002162094040149
+      Character0_WalkHoldingTool_Pickaxe_1: 5903330366847364847
+      Character0_WalkHoldingTool_Pickaxe_10: 1195184260351231258
+      Character0_WalkHoldingTool_Pickaxe_11: -5284810446558846139
+      Character0_WalkHoldingTool_Pickaxe_12: 2173994771349340226
+      Character0_WalkHoldingTool_Pickaxe_13: 3194027159160058470
+      Character0_WalkHoldingTool_Pickaxe_14: -6368036038308712923
+      Character0_WalkHoldingTool_Pickaxe_15: 4614435364263458806
+      Character0_WalkHoldingTool_Pickaxe_16: -3220221894617442925
+      Character0_WalkHoldingTool_Pickaxe_17: 252976823400613424
+      Character0_WalkHoldingTool_Pickaxe_18: 2013548011262069369
+      Character0_WalkHoldingTool_Pickaxe_19: 3228100439056888969
+      Character0_WalkHoldingTool_Pickaxe_2: -5633683282500636042
+      Character0_WalkHoldingTool_Pickaxe_20: -1412338747612554302
+      Character0_WalkHoldingTool_Pickaxe_21: 404764754690797807
+      Character0_WalkHoldingTool_Pickaxe_22: 6313020046435924332
+      Character0_WalkHoldingTool_Pickaxe_23: 1049330628399182183
+      Character0_WalkHoldingTool_Pickaxe_24: 641423247916145036
+      Character0_WalkHoldingTool_Pickaxe_25: 3899111934595144033
+      Character0_WalkHoldingTool_Pickaxe_26: -117635329635136550
+      Character0_WalkHoldingTool_Pickaxe_27: -6944682779582949037
+      Character0_WalkHoldingTool_Pickaxe_28: -3240718553464450756
+      Character0_WalkHoldingTool_Pickaxe_29: 5531735427336129205
+      Character0_WalkHoldingTool_Pickaxe_3: -8082638880490384325
+      Character0_WalkHoldingTool_Pickaxe_4: -7843391369419597322
+      Character0_WalkHoldingTool_Pickaxe_5: -7920460808201095577
+      Character0_WalkHoldingTool_Pickaxe_6: -8381342174391914259
+      Character0_WalkHoldingTool_Pickaxe_7: 8998875118589748311
+      Character0_WalkHoldingTool_Pickaxe_8: -3241126368164398803
+      Character0_WalkHoldingTool_Pickaxe_9: -2126559550993383781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

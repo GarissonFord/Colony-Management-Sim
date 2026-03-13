@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_Hammer_0: 1839769703268611187
+      Character0_GetUpHoldingTool_Hammer_1: 5491923922646635570
+      Character0_GetUpHoldingTool_Hammer_10: -7979683263292706556
+      Character0_GetUpHoldingTool_Hammer_11: 1256366582231518998
+      Character0_GetUpHoldingTool_Hammer_12: -638973258619133075
+      Character0_GetUpHoldingTool_Hammer_13: 3971599659601143989
+      Character0_GetUpHoldingTool_Hammer_14: -1141769021246406370
+      Character0_GetUpHoldingTool_Hammer_15: -6321089538443332982
+      Character0_GetUpHoldingTool_Hammer_16: 8787317867425334516
+      Character0_GetUpHoldingTool_Hammer_17: -8747014758782575291
+      Character0_GetUpHoldingTool_Hammer_18: 9181306690580263655
+      Character0_GetUpHoldingTool_Hammer_19: -1895034598815677161
+      Character0_GetUpHoldingTool_Hammer_2: -23072581805482186
+      Character0_GetUpHoldingTool_Hammer_3: 7814333162305709742
+      Character0_GetUpHoldingTool_Hammer_4: -4218264994009679800
+      Character0_GetUpHoldingTool_Hammer_5: -3136357406562280092
+      Character0_GetUpHoldingTool_Hammer_6: -1894501657036378936
+      Character0_GetUpHoldingTool_Hammer_7: -6639458225744448098
+      Character0_GetUpHoldingTool_Hammer_8: 2892217776108506980
+      Character0_GetUpHoldingTool_Hammer_9: 7579435123366155853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

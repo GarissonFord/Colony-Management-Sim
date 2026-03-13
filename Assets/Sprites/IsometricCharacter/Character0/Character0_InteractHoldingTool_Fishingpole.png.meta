@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_InteractHoldingTool_Fishingpole_0: 5254526370154752972
+      Character0_InteractHoldingTool_Fishingpole_1: -4961129321548624304
+      Character0_InteractHoldingTool_Fishingpole_10: -8149273960824347883
+      Character0_InteractHoldingTool_Fishingpole_11: 3272910745284389288
+      Character0_InteractHoldingTool_Fishingpole_12: 1900024570230129275
+      Character0_InteractHoldingTool_Fishingpole_13: -297474633061678291
+      Character0_InteractHoldingTool_Fishingpole_14: -4966449020294223275
+      Character0_InteractHoldingTool_Fishingpole_2: 201314925974742779
+      Character0_InteractHoldingTool_Fishingpole_3: 6744820807111596835
+      Character0_InteractHoldingTool_Fishingpole_4: -6867920486242793748
+      Character0_InteractHoldingTool_Fishingpole_5: 6640770999709092986
+      Character0_InteractHoldingTool_Fishingpole_6: -700601057768051300
+      Character0_InteractHoldingTool_Fishingpole_7: -2679550680498875232
+      Character0_InteractHoldingTool_Fishingpole_8: -8180783439762462972
+      Character0_InteractHoldingTool_Fishingpole_9: -4224337967384682590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_InteractHoldingTool_Sword_0: -4669816234926553210
+      Character0_InteractHoldingTool_Sword_1: -3346733266244262653
+      Character0_InteractHoldingTool_Sword_10: 5873854589235620030
+      Character0_InteractHoldingTool_Sword_11: -7279134850154872732
+      Character0_InteractHoldingTool_Sword_12: -4373375132611472745
+      Character0_InteractHoldingTool_Sword_13: 1980858720789014659
+      Character0_InteractHoldingTool_Sword_14: -4657329741211227014
+      Character0_InteractHoldingTool_Sword_2: -5694940172071302610
+      Character0_InteractHoldingTool_Sword_3: -3445577601485420602
+      Character0_InteractHoldingTool_Sword_4: 7884310573041997269
+      Character0_InteractHoldingTool_Sword_5: -1344662748747176304
+      Character0_InteractHoldingTool_Sword_6: 9099050900114024001
+      Character0_InteractHoldingTool_Sword_7: -4211348495693235538
+      Character0_InteractHoldingTool_Sword_8: 4214999811410002803
+      Character0_InteractHoldingTool_Sword_9: 1204504079193792745
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

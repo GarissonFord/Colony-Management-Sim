@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_WaterCan_0: -7690589281873716355
+      Character0_GetUpHoldingTool_WaterCan_1: 5699803161187439083
+      Character0_GetUpHoldingTool_WaterCan_10: -7344148460654635163
+      Character0_GetUpHoldingTool_WaterCan_11: 7446840964160572535
+      Character0_GetUpHoldingTool_WaterCan_12: -4477991299867411846
+      Character0_GetUpHoldingTool_WaterCan_13: 7081658385982386728
+      Character0_GetUpHoldingTool_WaterCan_14: -5152714841953749809
+      Character0_GetUpHoldingTool_WaterCan_15: 8349441405487349892
+      Character0_GetUpHoldingTool_WaterCan_16: 6641534167991430334
+      Character0_GetUpHoldingTool_WaterCan_17: -7591667054396461209
+      Character0_GetUpHoldingTool_WaterCan_18: -438040325039437547
+      Character0_GetUpHoldingTool_WaterCan_19: 1437253700931444822
+      Character0_GetUpHoldingTool_WaterCan_2: -2923983124463594146
+      Character0_GetUpHoldingTool_WaterCan_3: 2794869205436706775
+      Character0_GetUpHoldingTool_WaterCan_4: -3902957335892534163
+      Character0_GetUpHoldingTool_WaterCan_5: 2851081005895772577
+      Character0_GetUpHoldingTool_WaterCan_6: -1337701664736435985
+      Character0_GetUpHoldingTool_WaterCan_7: -8224200300181708130
+      Character0_GetUpHoldingTool_WaterCan_8: 667509047853167547
+      Character0_GetUpHoldingTool_WaterCan_9: 1918084841150756702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

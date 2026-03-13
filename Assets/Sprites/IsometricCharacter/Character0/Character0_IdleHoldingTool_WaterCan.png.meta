@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_IdleHoldingTool_WaterCan_0: 3438295265558438834
+      Character0_IdleHoldingTool_WaterCan_1: 6290793327958149124
+      Character0_IdleHoldingTool_WaterCan_10: -2328299038425397723
+      Character0_IdleHoldingTool_WaterCan_11: 3536408924287574818
+      Character0_IdleHoldingTool_WaterCan_12: -4377711540638566441
+      Character0_IdleHoldingTool_WaterCan_13: 8036388752752080266
+      Character0_IdleHoldingTool_WaterCan_14: 8169870214224449223
+      Character0_IdleHoldingTool_WaterCan_15: -6363793608980403080
+      Character0_IdleHoldingTool_WaterCan_16: 7304530078590180399
+      Character0_IdleHoldingTool_WaterCan_17: 9030577115509895348
+      Character0_IdleHoldingTool_WaterCan_18: 5173386716004797417
+      Character0_IdleHoldingTool_WaterCan_19: -2004665655506379333
+      Character0_IdleHoldingTool_WaterCan_2: 4185536168023735117
+      Character0_IdleHoldingTool_WaterCan_20: 4542854268574121276
+      Character0_IdleHoldingTool_WaterCan_21: 71327612236265778
+      Character0_IdleHoldingTool_WaterCan_22: -7844341478136749732
+      Character0_IdleHoldingTool_WaterCan_23: -1592944621360880535
+      Character0_IdleHoldingTool_WaterCan_24: -4015060734750709921
+      Character0_IdleHoldingTool_WaterCan_25: 7324043225842222773
+      Character0_IdleHoldingTool_WaterCan_26: -7023095676192900229
+      Character0_IdleHoldingTool_WaterCan_27: -309877054835069162
+      Character0_IdleHoldingTool_WaterCan_28: -4281281159080327618
+      Character0_IdleHoldingTool_WaterCan_29: -2349863006763579714
+      Character0_IdleHoldingTool_WaterCan_3: -4764602517087049948
+      Character0_IdleHoldingTool_WaterCan_30: 2442948845055050932
+      Character0_IdleHoldingTool_WaterCan_31: 5576862753119081665
+      Character0_IdleHoldingTool_WaterCan_32: 7233526913866152523
+      Character0_IdleHoldingTool_WaterCan_33: -6516203662554367260
+      Character0_IdleHoldingTool_WaterCan_34: -3350640743131967565
+      Character0_IdleHoldingTool_WaterCan_35: -872275662171754490
+      Character0_IdleHoldingTool_WaterCan_36: 4951163758735484534
+      Character0_IdleHoldingTool_WaterCan_37: 1630436617035556968
+      Character0_IdleHoldingTool_WaterCan_38: -6860843875968196660
+      Character0_IdleHoldingTool_WaterCan_39: 5023394028136913476
+      Character0_IdleHoldingTool_WaterCan_4: -5544638456465840148
+      Character0_IdleHoldingTool_WaterCan_5: -4609059688077133750
+      Character0_IdleHoldingTool_WaterCan_6: 3457823681804969104
+      Character0_IdleHoldingTool_WaterCan_7: 9119438351503794734
+      Character0_IdleHoldingTool_WaterCan_8: -5431608040811847142
+      Character0_IdleHoldingTool_WaterCan_9: -4181388753005394227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

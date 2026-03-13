@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_Showel_0: -5740831313985163778
+      Character0_GetUpHoldingTool_Showel_1: -5530009460306596864
+      Character0_GetUpHoldingTool_Showel_10: -1932734297918510789
+      Character0_GetUpHoldingTool_Showel_11: -6408513125500821774
+      Character0_GetUpHoldingTool_Showel_12: 3974446173356922716
+      Character0_GetUpHoldingTool_Showel_13: 8328288204950668084
+      Character0_GetUpHoldingTool_Showel_14: 2562739519322120836
+      Character0_GetUpHoldingTool_Showel_15: -2968692308006635124
+      Character0_GetUpHoldingTool_Showel_16: -9016570870194453892
+      Character0_GetUpHoldingTool_Showel_17: -8459954409732201333
+      Character0_GetUpHoldingTool_Showel_18: -8516634457349976413
+      Character0_GetUpHoldingTool_Showel_19: -6385194545506977342
+      Character0_GetUpHoldingTool_Showel_2: 8563967700092882507
+      Character0_GetUpHoldingTool_Showel_3: -2215233628477347961
+      Character0_GetUpHoldingTool_Showel_4: 1135363763517673782
+      Character0_GetUpHoldingTool_Showel_5: -7312387133239758682
+      Character0_GetUpHoldingTool_Showel_6: 5078635556298543753
+      Character0_GetUpHoldingTool_Showel_7: -1910929621254702296
+      Character0_GetUpHoldingTool_Showel_8: 3517976567348872018
+      Character0_GetUpHoldingTool_Showel_9: 8671332432504670169
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

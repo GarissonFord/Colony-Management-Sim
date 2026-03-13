@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_SitHoldingTool_Sword_0: 14097839741466425
+      Character0_SitHoldingTool_Sword_1: -7514788377345825351
+      Character0_SitHoldingTool_Sword_10: -2424354279539342555
+      Character0_SitHoldingTool_Sword_11: 4874238319800031553
+      Character0_SitHoldingTool_Sword_12: -4988208209518627614
+      Character0_SitHoldingTool_Sword_13: 3813831385468145679
+      Character0_SitHoldingTool_Sword_14: -1357933783313241440
+      Character0_SitHoldingTool_Sword_15: 8027115416784913174
+      Character0_SitHoldingTool_Sword_16: 3986597217394302671
+      Character0_SitHoldingTool_Sword_17: 459210571707715138
+      Character0_SitHoldingTool_Sword_18: 6489082392399496460
+      Character0_SitHoldingTool_Sword_19: -8154088476519457136
+      Character0_SitHoldingTool_Sword_2: 3521848944778578910
+      Character0_SitHoldingTool_Sword_3: 8882629090962010005
+      Character0_SitHoldingTool_Sword_4: -3422614963367681676
+      Character0_SitHoldingTool_Sword_5: 3778039058030470651
+      Character0_SitHoldingTool_Sword_6: 724656867162446463
+      Character0_SitHoldingTool_Sword_7: -3796288654203072588
+      Character0_SitHoldingTool_Sword_8: 5931661495657165150
+      Character0_SitHoldingTool_Sword_9: 6884833309978799238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

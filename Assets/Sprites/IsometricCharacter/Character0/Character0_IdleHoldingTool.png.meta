@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_IdleHoldingTool_0: -3769403271767152849
+      Character0_IdleHoldingTool_1: -2857462185458947607
+      Character0_IdleHoldingTool_10: 2726060050519739634
+      Character0_IdleHoldingTool_11: -8679475346941499143
+      Character0_IdleHoldingTool_12: 7171752322533054924
+      Character0_IdleHoldingTool_13: 606792832472902486
+      Character0_IdleHoldingTool_14: -1062526513340502681
+      Character0_IdleHoldingTool_15: 1685778829751879666
+      Character0_IdleHoldingTool_16: 4402630411771711478
+      Character0_IdleHoldingTool_17: -6478880913668209728
+      Character0_IdleHoldingTool_18: 1847308605404637322
+      Character0_IdleHoldingTool_19: -7803324580393413439
+      Character0_IdleHoldingTool_2: -4932284209270675925
+      Character0_IdleHoldingTool_20: -6455218547011773993
+      Character0_IdleHoldingTool_21: 1977242687411487314
+      Character0_IdleHoldingTool_22: -3070650371108261788
+      Character0_IdleHoldingTool_23: -7317162489762087171
+      Character0_IdleHoldingTool_24: -834842906639731945
+      Character0_IdleHoldingTool_25: 8584790427157303754
+      Character0_IdleHoldingTool_26: 7004993860962334617
+      Character0_IdleHoldingTool_27: -4263487012908551317
+      Character0_IdleHoldingTool_28: 6507469352443853965
+      Character0_IdleHoldingTool_29: -7960982624343283341
+      Character0_IdleHoldingTool_3: 4487768629815004559
+      Character0_IdleHoldingTool_30: -455747150733105985
+      Character0_IdleHoldingTool_31: 6947586403933491046
+      Character0_IdleHoldingTool_32: -7152844396536052933
+      Character0_IdleHoldingTool_33: 4210697637591389093
+      Character0_IdleHoldingTool_34: -981144115534958073
+      Character0_IdleHoldingTool_35: 3730295928488309136
+      Character0_IdleHoldingTool_36: 4580559355949093557
+      Character0_IdleHoldingTool_37: 6464464532506243511
+      Character0_IdleHoldingTool_38: 1608547995529671178
+      Character0_IdleHoldingTool_39: -8607694709272604057
+      Character0_IdleHoldingTool_4: -8486541825839489981
+      Character0_IdleHoldingTool_5: 1844574418910779290
+      Character0_IdleHoldingTool_6: 7107238753922014621
+      Character0_IdleHoldingTool_7: 4899845763743797570
+      Character0_IdleHoldingTool_8: 6879994285564701430
+      Character0_IdleHoldingTool_9: 550416037228501577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

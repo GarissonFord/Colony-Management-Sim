@@ -910,7 +910,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_Swing_0: 918154597488428447
+      Character0_Swing_1: 1297641550448046266
+      Character0_Swing_10: 1471357685854015685
+      Character0_Swing_11: 8760617153161364486
+      Character0_Swing_12: -3594497403445876738
+      Character0_Swing_13: -1449678552846679467
+      Character0_Swing_14: -6461827439720397816
+      Character0_Swing_15: 3997338705878001095
+      Character0_Swing_16: -5207738228098353551
+      Character0_Swing_17: -6590654220148200829
+      Character0_Swing_18: -3083872242433014889
+      Character0_Swing_19: -2295602971929094797
+      Character0_Swing_2: 7623720175666334785
+      Character0_Swing_20: 7552824541789727238
+      Character0_Swing_21: 4330400012239476135
+      Character0_Swing_22: 2089914977853693255
+      Character0_Swing_23: 1854399371286843570
+      Character0_Swing_24: -811795451652659193
+      Character0_Swing_25: -5247254571957009373
+      Character0_Swing_26: 1542397722991070171
+      Character0_Swing_27: 2855101644348341203
+      Character0_Swing_28: -9089487169967099105
+      Character0_Swing_29: 3383998118924837823
+      Character0_Swing_3: 763775035670134577
+      Character0_Swing_30: -7340994910826591539
+      Character0_Swing_4: -2347885745943264645
+      Character0_Swing_5: -5962871773634437291
+      Character0_Swing_6: -6111119997357927301
+      Character0_Swing_7: 956286329383794885
+      Character0_Swing_8: 7315609160192048826
+      Character0_Swing_9: -5648787125822525901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

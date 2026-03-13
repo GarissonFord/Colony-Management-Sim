@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_SitHoldingTool_Hammer_0: -2061314203612075014
+      Character0_SitHoldingTool_Hammer_1: -4385563690132589916
+      Character0_SitHoldingTool_Hammer_10: 1413912903594060136
+      Character0_SitHoldingTool_Hammer_11: -3238850270363574326
+      Character0_SitHoldingTool_Hammer_12: -1716029871112282942
+      Character0_SitHoldingTool_Hammer_13: 6424335933492390489
+      Character0_SitHoldingTool_Hammer_14: -8293318421547692518
+      Character0_SitHoldingTool_Hammer_15: -8501491952515541707
+      Character0_SitHoldingTool_Hammer_16: -3546582985836509954
+      Character0_SitHoldingTool_Hammer_17: -3580939043838613797
+      Character0_SitHoldingTool_Hammer_18: -7358939857450632875
+      Character0_SitHoldingTool_Hammer_19: -1032995484085010820
+      Character0_SitHoldingTool_Hammer_2: 4404134017394874304
+      Character0_SitHoldingTool_Hammer_3: -6506991300772816337
+      Character0_SitHoldingTool_Hammer_4: 6919950953613975728
+      Character0_SitHoldingTool_Hammer_5: -7991831595271418974
+      Character0_SitHoldingTool_Hammer_6: -5212025193927850454
+      Character0_SitHoldingTool_Hammer_7: -8897816683642462365
+      Character0_SitHoldingTool_Hammer_8: -3404206381989068060
+      Character0_SitHoldingTool_Hammer_9: -7672178993973189905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_SitHoldingTool_Fishingpole_0: 501014768157326630
+      Character0_SitHoldingTool_Fishingpole_1: 7499088355808321852
+      Character0_SitHoldingTool_Fishingpole_10: 5724275066393051388
+      Character0_SitHoldingTool_Fishingpole_11: 745311948771858589
+      Character0_SitHoldingTool_Fishingpole_12: -7306844969543313256
+      Character0_SitHoldingTool_Fishingpole_13: 4263771754502378246
+      Character0_SitHoldingTool_Fishingpole_14: -2230795453220001186
+      Character0_SitHoldingTool_Fishingpole_15: -3148012133521308379
+      Character0_SitHoldingTool_Fishingpole_16: -1084302919167055929
+      Character0_SitHoldingTool_Fishingpole_17: -3098371904906146052
+      Character0_SitHoldingTool_Fishingpole_18: -3006482639384107725
+      Character0_SitHoldingTool_Fishingpole_19: -6432220951411719762
+      Character0_SitHoldingTool_Fishingpole_2: 7313781772772003191
+      Character0_SitHoldingTool_Fishingpole_3: -1164537112394570771
+      Character0_SitHoldingTool_Fishingpole_4: 9216566479506295031
+      Character0_SitHoldingTool_Fishingpole_5: 5799416187569112096
+      Character0_SitHoldingTool_Fishingpole_6: 3158515166607086786
+      Character0_SitHoldingTool_Fishingpole_7: -3860715542778705519
+      Character0_SitHoldingTool_Fishingpole_8: 2169166240615076966
+      Character0_SitHoldingTool_Fishingpole_9: 6352334479152949356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_Run_Fishingpole_0: -7162310534754892799
+      Character0_Run_Fishingpole_1: -8536537170291757604
+      Character0_Run_Fishingpole_10: 3568527620180627881
+      Character0_Run_Fishingpole_11: -5935663651091432496
+      Character0_Run_Fishingpole_12: -8986377691397761225
+      Character0_Run_Fishingpole_13: 8710304771574292
+      Character0_Run_Fishingpole_14: -8492692474172671068
+      Character0_Run_Fishingpole_15: -5359218582923606825
+      Character0_Run_Fishingpole_16: -8802300194937406623
+      Character0_Run_Fishingpole_17: -1092134641709379464
+      Character0_Run_Fishingpole_18: -4505561323014902749
+      Character0_Run_Fishingpole_19: 6153871157253228520
+      Character0_Run_Fishingpole_2: 2045729753849595049
+      Character0_Run_Fishingpole_3: 1308952031787638801
+      Character0_Run_Fishingpole_4: 6541608809237131199
+      Character0_Run_Fishingpole_5: -1149831397403484790
+      Character0_Run_Fishingpole_6: -3261062483703667562
+      Character0_Run_Fishingpole_7: 6283721825490351239
+      Character0_Run_Fishingpole_8: 7331207450153981893
+      Character0_Run_Fishingpole_9: -290859070646468522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

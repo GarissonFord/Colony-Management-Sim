@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_Run_Hammer_0: 2748011677884430620
+      Character0_Run_Hammer_1: 5031229227365082418
+      Character0_Run_Hammer_10: -8667951231374751315
+      Character0_Run_Hammer_11: 8447647290959780479
+      Character0_Run_Hammer_12: -3049959620754782325
+      Character0_Run_Hammer_13: 4755067266149069413
+      Character0_Run_Hammer_14: -1436835769259247245
+      Character0_Run_Hammer_15: -4313967005763958403
+      Character0_Run_Hammer_16: 5627495618312698844
+      Character0_Run_Hammer_17: -8699954778860955934
+      Character0_Run_Hammer_18: 2541771493943896548
+      Character0_Run_Hammer_19: 3976255374094483854
+      Character0_Run_Hammer_2: -9214706187787959660
+      Character0_Run_Hammer_3: -8804731881261339919
+      Character0_Run_Hammer_4: 3324382824315625001
+      Character0_Run_Hammer_5: 768336844399372703
+      Character0_Run_Hammer_6: 258158840882111152
+      Character0_Run_Hammer_7: 6912514301349355520
+      Character0_Run_Hammer_8: -8181021312869368928
+      Character0_Run_Hammer_9: -3179931905895287323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

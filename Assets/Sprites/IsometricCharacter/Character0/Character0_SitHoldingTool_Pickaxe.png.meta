@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character0_SitHoldingTool_Pickaxe_0: -3201982867343366
+      Character0_SitHoldingTool_Pickaxe_1: 6860084847705738812
+      Character0_SitHoldingTool_Pickaxe_10: 9123397279880595367
+      Character0_SitHoldingTool_Pickaxe_11: 7250155197725758078
+      Character0_SitHoldingTool_Pickaxe_12: -1508477893896899346
+      Character0_SitHoldingTool_Pickaxe_13: -2787539681955743653
+      Character0_SitHoldingTool_Pickaxe_14: 8862068397778602997
+      Character0_SitHoldingTool_Pickaxe_15: -4858853645050793602
+      Character0_SitHoldingTool_Pickaxe_16: -822782745431167798
+      Character0_SitHoldingTool_Pickaxe_17: 95306449137725563
+      Character0_SitHoldingTool_Pickaxe_18: -4872289524879477740
+      Character0_SitHoldingTool_Pickaxe_19: 8233063469391066670
+      Character0_SitHoldingTool_Pickaxe_2: 5557569063302243361
+      Character0_SitHoldingTool_Pickaxe_3: -34660138316223400
+      Character0_SitHoldingTool_Pickaxe_4: 171163989805601712
+      Character0_SitHoldingTool_Pickaxe_5: 962320777959439684
+      Character0_SitHoldingTool_Pickaxe_6: 1299587408152533647
+      Character0_SitHoldingTool_Pickaxe_7: 7169086015984499577
+      Character0_SitHoldingTool_Pickaxe_8: -2628544507363573334
+      Character0_SitHoldingTool_Pickaxe_9: 8378372741308420014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
