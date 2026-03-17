@@ -5,6 +5,8 @@ using UnityEngine.Tilemaps;
 
 public class TileSelector : MonoBehaviour
 {
+    TilemapManager tilemapManager;
+
     InputAction lookAction;
     // Technically not an "attack" yet, but it's already mapped to left-click so this is out of convenience
     InputAction attackAction;
@@ -12,7 +14,7 @@ public class TileSelector : MonoBehaviour
 
     [SerializeField] private Tilemap tilemap;
     [SerializeField] private TileBase selectedTile;
-    [SerializeField] private TileBase clearTile;
+    [SerializeField] private TileBase newSeedTile;
     [SerializeField] private Vector2 rawPointerPosition;
     [SerializeField] private Vector3 pointerPosition;
     [SerializeField] private Vector3Int pointerCellPosition;
@@ -24,6 +26,7 @@ public class TileSelector : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        tilemapManager = GameObject.Find("Tilemap Manager").GetComponent<TilemapManager>();
         previousSelectedCellPosition = new Vector3Int(0, 0, 0);
         gridLayout = tilemap.GetComponent<GridLayout>();
         lookAction = InputSystem.actions.FindAction("Look");
@@ -38,10 +41,19 @@ public class TileSelector : MonoBehaviour
         CheckPointerPosition();
         CheckIfCellIsSelected();
 
-        if (attackAction.IsPressed())
+        if (attackAction.WasPerformedThisFrame())
         {
             // Debug.Log("attackAction.WasPerformedThisFrame()");
-            tilemap.SetTile(pointerCellPosition, clearTile);
+            GrassTile grassTile = (GrassTile) tilemap.GetTile(pointerCellPosition);
+            
+            if (grassTile != null)
+            {
+                // grassTile.PlantSeed();
+                // Debug.Log("Planting seeds at cell " + pointerCellPosition.ToString());
+                tilemapManager.PlantSeed(pointerCellPosition);
+            }
+
+            tilemap.SetTile(pointerCellPosition, newSeedTile);
         }
     }
 

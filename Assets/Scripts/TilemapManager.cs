@@ -5,26 +5,43 @@ using UnityEngine.Tilemaps;
 
 public class TilemapManager : MonoBehaviour
 {
-    /* Referring to the following vid by Shack Man to start out
-     * https://www.youtube.com/watch?v=XIqtZnqutGg&t=50s
-     */
+    [SerializeField] private Tilemap tilemap;
+    [SerializeField] private TileBase growthTile;
 
-    [SerializeField] private Tilemap map;
-
-    [SerializeField] private List<WorldTile> worldTiles;
-
-    private Dictionary<TileBase, WorldTile> dataFromTiles;
+    public Dictionary<Vector3Int, GrassTile> grassTiles;
 
     private void Awake()
     {
-        dataFromTiles = new Dictionary<TileBase, WorldTile>();
+        GridLayout gridLayout = tilemap.GetComponent<GridLayout>();
+        grassTiles = new Dictionary<Vector3Int, GrassTile>();  
 
-        foreach (var tileData in worldTiles)
+        BoundsInt bounds = tilemap.cellBounds;
+        Debug.Log("bounds: " + bounds);
+
+        foreach (Vector3Int location in tilemap.cellBounds.allPositionsWithin)
         {
-            foreach (var tile in tileData.tiles)
+            GrassTile tile = (GrassTile) tilemap.GetTile(location);
+            
+            if (tile != null)
             {
-                dataFromTiles.Add(tile, tileData);
+                // Debug.Log("tile " + tile.name + " at " + location.ToString());
+                // Make this dynamic later
+                tile.m_currentIndex = 0;
+
+                grassTiles.Add(location, tile);
             }
         }
+    }
+
+    public void PlantSeed(Vector3Int position)
+    {
+        StartCoroutine(SetTimerForGrowth(position));
+    }
+
+    IEnumerator SetTimerForGrowth(Vector3Int location)
+    {
+        GrassTile tile = (GrassTile) tilemap.GetTile(location);
+        yield return new WaitForSeconds(2.0f);
+        tilemap.SetTile(location, growthTile);
     }
 }
