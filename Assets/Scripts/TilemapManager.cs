@@ -29,6 +29,8 @@ public class TilemapManager : MonoBehaviour
                 tile.m_currentIndex = 0;
 
                 grassTiles.Add(location, tile);
+                // This might be overkill, find a way to only do this once after the loop
+                tile.RefreshTile(location, tilemap);
             }
         }
     }
@@ -42,6 +44,7 @@ public class TilemapManager : MonoBehaviour
     {
         GrassTile tile = (GrassTile) tilemap.GetTile(location);
         yield return new WaitForSeconds(2.0f);
-        tilemap.SetTile(location, growthTile);
+        tile.Grow(location, tilemap);
+        // tilemap.SetTile(location, growthTile);
     }
 }

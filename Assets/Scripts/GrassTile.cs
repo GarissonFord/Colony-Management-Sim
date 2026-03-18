@@ -56,10 +56,18 @@ namespace UnityEngine.Tilemaps
         }*/
 
         // Increment the index of the different stages of growth
-        public void Grow()
+        public void Grow(Vector3Int position, Tilemap tilemap)
         {
-            Debug.Log("Growing!");
-            m_currentIndex++;
+            if (m_currentIndex < m_Sprites.Length)
+            {
+                Debug.Log("Growing!");
+                m_currentIndex++;
+                RefreshTile(position, tilemap);
+            }
+            else
+            {
+                Debug.Log("Fully grown! Trying to spread (upon implementation)");
+            }
         }
 
 
